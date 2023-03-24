@@ -1,0 +1,36 @@
+.heading
+{
+    font-size: 25px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.4);
+}
+
+.NOTE
+{
+    font-size: 17px;
+    color: black;
+}
+
+.footer
+{
+    position: fixed;
+    color: black;
+    bottom: 0;
+    width:100%;
+    background-color: grey;
+    line-height: 3;
+    text-align: center;
+}
+
+canvas
+{
+    border: 5px solid black;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px grey;
+}
+
+.body
+{
+    background-image: url(abstract-scribble-icons-hand-drawn-doodle-coloring_179234-222.avif);
+}
